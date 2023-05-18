@@ -20,8 +20,6 @@ $test = DataZapp::run($apikey, 'PhoneScrubAPI', [
 ]);
 ```
 
-See the [documentation](https://usebasin.com/docs/api) for more information.
-
 ## Notes
 
 - ``PhoneScrubAPI`` - requires ``Phone``, delivers ``PhoneType``
