@@ -1,7 +1,7 @@
 {
-    "name": "travis/basin",
-    "description": "A PHP package for working w/ the Basin API.",
-    "homepage": "https://github.com/swt83/php-basin",
+    "name": "travis/datazapp",
+    "description": "A PHP package for working w/ the DataZapp API.",
+    "homepage": "https://github.com/swt83/php-datazapp",
     "license": "MIT",
     "authors": [
         {

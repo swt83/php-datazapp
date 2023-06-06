@@ -24,3 +24,5 @@ $test = DataZapp::run($apikey, 'PhoneScrubAPI', [
 
 - ``PhoneScrubAPI`` - requires ``Phone``, delivers ``PhoneType``
 - ``EmailVerificationAPI`` - requires ``Email``, delivers ``Status``
+
+The docs are only available for logged-in users with downloadable PDF files.
